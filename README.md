@@ -51,9 +51,9 @@
 
 | Category         | Feature                            | Status     |
 |------------------|-------------------------------------|------------|
-| Backend API      | Form submissions + email            | ✅ Done     |
-|                  | File upload & CDN URLs              | ✅ Done     |
-|                  | API key management                  | ✅ Done     |
+| Backend API      | Form submissions + email            | 🛠️ In Dev   |
+|                  | File upload & CDN URLs              | 🛠️ In Dev   |
+|                  | API key management                  | 🛠️ In Dev   |
 | AI Agent Builder | Visual workflow editor              | 🛠️ In Dev   |
 |                  | Custom data upload (PDF/CSV)        | 🛠️ In Dev   |
 | Chatbots         | Embeddable chatbot widget           | 🛠️ In Dev   |
@@ -111,7 +111,7 @@ We welcome contributions from developers, designers, and AI engineers.
 
 ## 📬 License
 
-MIT License © 2025 [Shashank Shekhar](https://github.com/shashank-shekhar)
+MIT License © 2025 [Shashank Shekhar](https://github.com/shashaaankkkkk)
 
 ---
 
