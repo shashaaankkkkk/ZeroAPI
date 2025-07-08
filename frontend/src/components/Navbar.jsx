@@ -26,7 +26,7 @@ function Navbar() {
 
           {/* Actions */}
           <div className="hidden md:flex items-center space-x-4">
-            <a href="#login" className="text-gray-700 hover:text-black text-sm transition">Login</a>
+            <a href="/login" className="text-gray-700 hover:text-black text-sm transition">Login</a>
             <a
               href="#get-started"
               className="bg-[var(--color-primary)] text-white text-sm px-4 py-2 rounded-md shadow-sm hover:opacity-90 transition"
