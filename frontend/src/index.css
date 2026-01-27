@@ -1,0 +1,27 @@
+@import "tailwindcss";
+:root {
+ --font-default: 'Roboto', sans-serif;
+
+  --color-primary-dark: #10002B;
+  --color-accent: #8427E2;
+  --color-secondary-dark: #360065;
+  --color-primary: #0168fa;
+  --color-light: #FBFCFE;
+}
+body {
+  font-family: var(--font-default);
+}
+
+
+/* logo font  */
+.logo-font {
+  font-family: "Bitcount Grid Double", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 250; /* or any value between 100–900 */
+  font-style:normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 1,
+    "ELSH" 0,
+    "ELXP" 0;
+}
